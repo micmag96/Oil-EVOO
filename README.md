@@ -1,5 +1,6 @@
 # Predicting Ethyl Esters in Extra Virgin Olive oils
-[![DOI](https://zenodo.org/badge/1189450563.svg)](https://doi.org/10.5281/zenodo.19186417)
+[![DOI](https://zenodo.org/badge/1190444617.svg)](https://doi.org/10.5281/zenodo.19203215)
+
 
 
 ![Graphical Abstract](Graphical_Abstract.png)
