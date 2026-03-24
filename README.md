@@ -1,4 +1,4 @@
-# Predicting Ethyl Esters in Extra Virgin Olive oils
+# Predicting Ethyl Esters in Extra Virgin Olive oils IR spectra
 [![DOI](https://zenodo.org/badge/1190444617.svg)](https://doi.org/10.5281/zenodo.19203215)
 
 
