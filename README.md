@@ -13,7 +13,7 @@
 **Published:** 1 January 2026
 
 <p align="center">
-<img src="foodchem.jpg" alt="Frontiers in Plant Science" width="600"/>
+<img src="foodchem.jpg" alt="Frontiers in Plant Science" width="400"/>
 </p>
 
 ---
